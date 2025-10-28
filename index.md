@@ -3,10 +3,10 @@ layout: home
 ---
 
 <div class="image-row">
-  <div class="column">
+  <div class="column" style="flex: 50%;">
     <img src="/assets/images/Background-Pic.jpg" alt="coding">
   </div>
-  <div class="column">
+  <div class="column" style="flex: 50%;">
     <img src="/assets/images/Background-Pic-3.jpg" alt="tractor trailer">
   </div>
 </div>
