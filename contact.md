@@ -5,5 +5,5 @@ title: Contact
 permalink: /contact
 ---
 
-You can reach me at [edwardsd03@outlook.com.com](mailto:edwardsd03@outlook.com.com)  
+You can reach me at [edwardsd03@outlook.com](mailto:edwardsd03@outlook.com)  
 Or connect with me on [LinkedIn](https://www.linkedin.com/in/demetrius-edwards03)
